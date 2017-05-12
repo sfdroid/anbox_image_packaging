@@ -1,4 +1,4 @@
-Name:       anbox_sfdroid_image
+Name:       anbox-sfdroid-image
 Summary:    Anbox ARM squashfs image with sfdroid changes
 Version:    0.0.1
 Release: 2
