@@ -1,4 +1,4 @@
-Name:       anbox-sfdroid-image
+Name:       anbox-sailfishos-image
 Summary:    Anbox ARM squashfs image with sfdroid changes
 Version:    0.0.1
 Release: 2
